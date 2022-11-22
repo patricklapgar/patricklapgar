@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang and TypeScript, and always looking for another project to test my skills!!!
 - 💞️ I’m looking to collaborate on great work regarding my interests, but open to explore new areas of technology
 - 📫 How to reach me ...
+
          - By using either of these emails lolol:
          
              - papgar9@gmail.com
