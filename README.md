@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
 
 # Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=patricklapgar&repo=github-readme-stats)](https://github.com/patricklapgar/github-readme-stats)
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklapgar&show_icons=true&theme=transparent)
 
