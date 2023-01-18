@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick!!
-### Feel Free to Follow: ![Github Follow](https://img.shields.io/github/followers/patricklapgar?style=social)
+### Feel Free to Follow: ![Github Follow](https://img.shields.io/github/followers/patricklapgar?style=social) ![Discord Follow](https://discord-readme-badge.vercel.app/api?id=752627982341898281)
 
 ---
 
