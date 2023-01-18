@@ -5,7 +5,7 @@
 - 💻 I’m currently working on LeetCamp, a project where I teach students algorithms and data structures via LeetCode problems
 - 🤓 I’m currently learning TypeScript and Golang
 - 👯 I’m looking to collaborate on projects focused on web development or systems programming (or both)
-- 🤔 I’m looking for help with LeetCamp. If you're involved in Aggie Coding Club and want to learn data structures, send me an email 😉
+- 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to learn data structures, send me an email 😉
 - 💬 Ask me about C++ and Python (and also video games 🎮)
 - 📫 How to reach me: patrickapgpar@tamu.edu or papgar9@gmail.com
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
