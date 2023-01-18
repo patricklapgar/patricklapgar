@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick!!
-### Feel Free to Follow: [!Github Follow](https://img.shields.io/github/followers/patricklapgar?style=social)
+### Feel Free to Follow: ![Github Follow](https://img.shields.io/github/followers/patricklapgar?style=social)
 
 - 💻 I’m currently working on LeetCamp, a project where I teach students algorithms and data structures via LeetCode problems
 - 🤓 I’m currently learning TypeScript and Golang
