@@ -10,7 +10,7 @@
 - 📫 How to reach me: patrickapgpar@tamu.edu or papgar9@gmail.com
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
 
----
+<!-- --- -->
 
 <!-- ## Stats
 
