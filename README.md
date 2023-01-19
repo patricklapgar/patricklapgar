@@ -12,12 +12,12 @@
 
 ---
 
-## Stats
+<!-- ## Stats
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricklapgar&show_icons=true&theme=transparent)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklapgar&layout=compact)](https://github.com/patricklapgar/github-readme-stats)
-
+ -->
 ---
 
 ## Tech Stack
