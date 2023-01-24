@@ -2,7 +2,7 @@
 
 ---
 
-- 💻 I’m currently working on LeetCamp, a project where I teach students algorithms and data structures via LeetCode problems
+- 💻 I’m currently working on LeetCamp, a project where students learn algorithms & data structures via LeetCode problems & projects
 - 🤓 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on projects focused on web development or systems programming (or both)
 - 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to learn data structures, send me an email 😉
