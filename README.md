@@ -2,11 +2,11 @@
 
 ---
 
-- 💻 I’m currently working on LeetCamp, a project where students learn algorithms & data structures via LeetCode problems & projects
+- 💻 I’m currently working on LeetCamp, a project where students learn algorithms & data structures via LeetCode & projects
 - 🤓 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on projects focused on web development or systems programming (or both)
 - 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to learn data structures, send me an email 😉
-- 📫 How to reach me: patrickapgpar@tamu.edu or papgar9@gmail.com
+- 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
 - 💬 Ask me about C++ and Python (and also video games 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
 
