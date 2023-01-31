@@ -3,9 +3,9 @@
 
 ## About Me
 
-I started learning programming back in high school. Back then, I used to play around with websites and write nifty JavaScripts in the browser console.
+I started learning programming back in high school. Back then, I used to fidget with websites and write nifty JavaScripts in the browser console.
 
-Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware. 
+Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware 🤓
 
 Recently, I finished a Co-Op where I worked on operating systems and developed internal tools. Before that, I was doing Full-Stack work at a consulting Firm.
 
