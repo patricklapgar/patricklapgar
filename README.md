@@ -7,9 +7,9 @@ I started learning programming back in high school. Back then, I used to fidget 
 
 Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware 🤓
 
-Recently, I finished a Co-Op where I worked on operating systems and developed internal tools. Before that, I was doing Full-Stack work at a consulting Firm.
+I recently finished a co-op where I worked on operating systems and developed internal tools. Before that, I was doing full stack work at a consulting Firm.
 
-Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows through my work.
+Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows.
 
 I've got quite a bit of projects here. Take a look around, maybe they'll prove to be a useful reference for you 🙂
 
