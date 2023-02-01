@@ -3,7 +3,7 @@
 
 ## About Me
 
-I started learning programming back in high school. Back then, I used to fidget with websites and write nifty JavaScripts in the browser console
+I started programming during high school. Back then, I used to just fidget with websites and write nifty JavaScripts in the browser console
 
 Fast-forward 5 years and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building things for the web 🤓
 
