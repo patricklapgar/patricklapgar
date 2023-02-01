@@ -3,21 +3,21 @@
 
 ## About Me
 
-I started learning programming back in high school. Back then, I used to fidget with websites and write nifty JavaScripts in the browser console.
+I started learning programming back in high school. Back then, I used to fidget with websites and write nifty JavaScripts in the browser console
 
-Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware, but I still love building things for the web 🤓
+Fast-forward 5 years and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building things for the web 🤓
 
-I recently finished a co-op where I worked on operating systems and developed internal tools. Before that, I was doing full stack work at a consulting Firm.
+I recently finished a co-op where I worked on an operating system and developed internal tools. Before that, I was doing full-stack work at a consulting firm
 
-Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows.
+Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows
 
-I've got quite a bit of projects here. Take a look around, maybe they'll prove to be a useful reference for you 🙂
+I've got quite a bit of projects here. Take a look around, maybe they'll prove to be a useful reference for you (or at least be interesting) 🙂
 
 A little more about me:
 
-- 💻 I’m currently working on LeetCamp, a project where students learn algorithms & data structures via LeetCode & projects
+- 💻 I’m currently working on LeetCamp, a project where I teach algorithms & data structures via LeetCode problems & projects
 - 🤓 I’m currently learning TypeScript, and having lots of fun while doing so
-- 👯 I’m looking to collaborate on projects focused on web development / systems programming
+- 👯 I’m looking to collaborate on projects focused on web development and / or systems programming
 - 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, send me an email 😉
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
 - 💬 Ask me about C++ and Python (and also video games, may fav franchise is Halo 🎮)
