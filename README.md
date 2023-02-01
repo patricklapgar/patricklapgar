@@ -5,7 +5,7 @@
 
 I started learning programming back in high school. Back then, I used to fidget with websites and write nifty JavaScripts in the browser console.
 
-Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware 🤓
+Fast-forward 5 years and here we are! I study Electronics, from microprocessors to embedded firmware, but I still love building things for the web 🤓
 
 I recently finished a co-op where I worked on operating systems and developed internal tools. Before that, I was doing full stack work at a consulting Firm.
 
