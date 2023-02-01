@@ -22,6 +22,8 @@ A little more about me:
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
 - 💬 Ask me about C++ and Python (and also video games, my fav franchise is Halo 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
+ 
+Also, if you wish to spare some time, check out my ![Replit](https://replit.com/@PatrickApgar) account. I like to do fun side projects on the go!
 
 <!-- --- -->
 
