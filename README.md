@@ -5,9 +5,9 @@
 
 I started programming during high school. Back then, I used to just fidget with websites and write nifty JavaScripts in the browser console
 
-Fast-forward 5 years and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building things for the web 🤓
+5 years later and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building things for the web 🤓
 
-I recently finished a co-op where I worked on an operating system and developed internal tools. Before that, I was doing full-stack work at a consulting firm
+I recently finished a co-op where I worked on an operating system and developed internal tools. Before that, I did a full-stack intern in a consulting firm
 
 Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows
 
