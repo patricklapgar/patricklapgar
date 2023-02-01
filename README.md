@@ -20,7 +20,7 @@ A little more about me:
 - 👯 I’m looking to collaborate on projects focused on web development and / or systems programming
 - 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, send me an email 😉
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
-- 💬 Ask me about C++ and Python (and also video games, may fav franchise is Halo 🎮)
+- 💬 Ask me about C++ and Python (and also video games, my fav franchise is Halo 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
 
 <!-- --- -->
