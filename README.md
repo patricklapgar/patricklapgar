@@ -4,13 +4,13 @@
 
 I started programming during high school. Back then, I used to just fidget with websites and write nifty JavaScripts in the browser console
 
-5 years later and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building web apps 🤓
+5 years later and here I am! I study Electronics, from microprocessors to embedded firmware, and I still love building web apps in my free time 🤓
 
 In my recent co-op, I worked on an operating system and developed internal tools. Before that, I was a full-stack intern at a consulting firm
 
 Needless to say, my work comprises of both web and systems development. I love working (and learning) in both areas, and I hope it shows
 
-I've got quite a bit of projects here. Take a look around, maybe they'll prove to be a useful reference for you 🙂
+I've got quite a few projects here. Take a look around, maybe they'll be a useful reference for you 🙂
 
 A little more about me:
 
