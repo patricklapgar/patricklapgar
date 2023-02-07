@@ -35,6 +35,6 @@ patricklapgar/patricklapgar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### "The greats weren't great because at birth they could paint, the greats were great because they paint a lot"
+### "Great artists weren't great because at birth they could paint, the greats were great because they paint a lot"
 
  - Macklemore
