@@ -3,7 +3,7 @@
 ## About Me
 
 - 💻 I’m currently working on LeetCamp, a project where I teach algorithms & data structures via LeetCode problems & projects
-- 🤓 I’m currently learning TypeScript, and having lots of fun while doing so
+- 🤓 I’m currently learning TypeScript and Go, and having lots of fun while doing so
 - 👯 I’m looking to collaborate on projects focused on web development and / or systems programming
 - 🤔 I’m looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, send me an email 😉
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
