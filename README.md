@@ -8,7 +8,7 @@ As of now, I'm pursuing my Bachelors in **Electronics Engineering** w/ minors in
 A little more about me and what I like...
 
 - 💻 I’m currently working on LeetCamp, a project where I teach algorithms & data structures via LeetCode problems & projects
-- 👯 I’m looking to collaborate on projects focused on web development and / or systems programming
+- 👯 I’m looking to collaborate on projects focused on web development or systems programming
 - 🤔 I’m also looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, email me 😉
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
 - 💬 Ask me about C++ and Python (and also video games, my fav franchise is Halo 🎮)
