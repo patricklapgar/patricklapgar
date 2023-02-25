@@ -3,7 +3,7 @@
 ## About Me
 Name's Patrick. I'm passionate about all things backend engineering. I've done great work on a variety of projects from industry-grade distributed operating systems to backend APIs. 
 
-As of now, I'm pursuing my Bachelors in *Electronics Engineering* w/ minors in Computer Science and Cybersecurity.
+As of now, I'm pursuing my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
 
 A little more about me and what I like...
 
