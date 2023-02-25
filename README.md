@@ -1,6 +1,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick!!
 
 ## About Me
+Name's Patrick. I'm passionate about all things backend engineering. I've done great work on a variety of projects from industry-grade distributed operating systems to backend APIs. 
+
+As of now, I'm pursuing my Bachelors in *Electronics Engineering* w/ minors in Computer Science and Cybersecurity.
+
+A little more about me and what I like...
 
 - 💻 I’m currently working on LeetCamp, a project where I teach algorithms & data structures via LeetCode problems & projects
 - 🤓 I’m currently learning TypeScript and Go, and having lots of fun while doing so
