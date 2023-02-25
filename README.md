@@ -14,7 +14,11 @@ A little more about me and what I like...
 - 💬 Ask me about C++ and Python (and also video games, my fav franchise is Halo 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
  
-Also, if you wish to spare some time, please check out my Replit account: https://replit.com/@PatrickApgar. I like to build fun side projects there!
+Also, if you wish to spare some time, please check out my Replit account: 
+
+- https://replit.com/@PatrickApgar 
+
+I like to build fun side projects there!
 
 ## 🧠 Currently Learning
 
