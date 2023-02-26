@@ -19,9 +19,11 @@ Also, if you wish to spare some time, please check out my Replit account:
 I like to build fun side projects there!
 
 ## 🧠 Currently Learning
-
+<!-- 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
+
+[![My Skills](https://skillicons.dev/icons?i=go,graphql)](https://skillicons.dev)
 
 <!-- --- -->
 
