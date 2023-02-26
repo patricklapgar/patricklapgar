@@ -1,8 +1,3 @@
-```python
-print(Hello World)
-```
-
-
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick!!
 
 ## 🤓 About Me
@@ -48,12 +43,13 @@ I like to build fun side projects there!
 
 <!-- Book Recommendations -->
 ## 📖 Book Recommendations
-Not *really* all that relevant, but if you're looking for something interesting...
+If you're looking for something interesting...
 
 - [Beej's C Programming Book](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
 - [Halo: First Strike](https://www.pdfdrive.com/halo-first-strike-e197869295.html) <- Hands-down the **best** Halo novel ever written, change my mind
 - [Machine Learning. The New AI](https://www.pdfdrive.com/machine-learning-the-new-ai-e167400703.html) 🤓
 - [The Lord of the Rings - The Fellowship of the Ring](https://www.pdfdrive.com/lord-of-the-rings-the-fellowship-of-the-ring-e193584112.html) <- Classic 👌
+
 
 ## 🔗 You can also find me here: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/python-original.svg " alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
