@@ -43,7 +43,7 @@ I like to build fun side projects there!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricklapgar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[!Language Stats](https://api.githubtrends.io/user/svg/patricklapgar/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)
+[![Language Stats](https://api.githubtrends.io/user/svg/patricklapgar/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)]()
 
 <!-- Book Recommendations -->
 ## 📖 Book Recommendations
