@@ -45,6 +45,8 @@ I like to build fun side projects there!
 
 [![Language Stats](https://api.githubtrends.io/user/svg/patricklapgar/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)]()
 
+[![Most Contributed Repos](https://api.githubtrends.io/user/svg/patricklapgar/repos?time_range=one_year&loc_metric=changed&theme=dark)]()
+
 <!-- Book Recommendations -->
 ## 📖 Book Recommendations
 If you're looking for something interesting...
