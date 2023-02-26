@@ -41,11 +41,11 @@ I like to build fun side projects there!
 
  ## 📈 Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricklapgar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
 [![Language Stats](https://api.githubtrends.io/user/svg/patricklapgar/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)]()
 
 [![Most Contributed Repos](https://api.githubtrends.io/user/svg/patricklapgar/repos?time_range=one_year&loc_metric=changed&theme=dark)]()
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricklapgar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!-- Book Recommendations -->
 ## 📖 Book Recommendations
