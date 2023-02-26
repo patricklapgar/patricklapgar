@@ -57,7 +57,11 @@ If you're looking for something interesting...
 - [The Lord of the Rings - The Fellowship of the Ring](https://www.pdfdrive.com/lord-of-the-rings-the-fellowship-of-the-ring-e193584112.html) <- Classic 👌
 
 
-## 🔗 You can also find me here: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+## 🔗 You can also find me here: 
+[![My Skills](https://skillicons.dev/icons?i=linkedin,discord,github,replit&perline=6)](https://skillicons.dev)
+
+<!-- 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/python-original.svg " alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/electron-original.svg " alt="Electron Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-original.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-original.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-original.svg " alt="Bootstrap Logo" width="50" height="50"/> -->
 
