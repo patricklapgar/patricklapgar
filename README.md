@@ -48,14 +48,14 @@ I like to build fun side projects there!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricklapgar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!-- Book Recommendations -->
-## 📖 Book Recommendations
+<!-- ## 📖 Book Recommendations
 If you're looking for something interesting...
 
 - [Beej's C Programming Book](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
 - [Halo: First Strike](https://www.pdfdrive.com/halo-first-strike-e197869295.html) <- Hands-down the **best** Halo novel ever written, change my mind
 - [Machine Learning. The New AI](https://www.pdfdrive.com/machine-learning-the-new-ai-e167400703.html) 🤓
 - [The Lord of the Rings - The Fellowship of the Ring](https://www.pdfdrive.com/lord-of-the-rings-the-fellowship-of-the-ring-e193584112.html) <- Classic 👌
-
+-->
 
 ## 🔗 You can also find me here: [![My Skills](https://skillicons.dev/icons?i=linkedin,discord,github,replit&perline=6)](https://skillicons.dev)
 
