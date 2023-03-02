@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick!!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Patrick!!
 
 ## 🤓 About Me
 Name's Patrick. I'm passionate about all things backend engineering. As of now, I'm pursuing my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
