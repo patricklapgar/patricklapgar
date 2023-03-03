@@ -1,7 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Patrick!!
 
 ## 🤓 About Me
-Name's Patrick. I'm passionate about all things backend engineering. As of now, I'm pursuing my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
+I'm passionate about all things backend engineering, and also your average C enthusiast. 
+
+As of now, I'm completing my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
 
 A little more about me and what I like...
 
@@ -9,7 +11,7 @@ A little more about me and what I like...
 - 👯 I’m looking to collaborate on projects focused on web development or systems programming
 - 🤔 I’m also looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, email me 😉
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
-- 💬 Ask me about C++ and Python (and also video games, my fav franchise is Halo 🎮)
+- 💬 Ask me about C++ and Python (and also video games, whichever you may or may not like 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
  
 Also, if you wish to spare some time, please check out my Replit account: 
