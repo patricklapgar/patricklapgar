@@ -60,7 +60,8 @@ If you're looking for something interesting...
 -->
 
 ## 🔗 You can also find me here: [![My Skills](https://skillicons.dev/icons?i=linkedin,github,replit&perline=6)](https://www.linkedin.com/in/patrickapgar)
-                                  [!][https://skillicons.dev/icons?i=discord](https://discordapp.com/users/752627982341898281))
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/752627982341898281)
 
 <!-- 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) -->
