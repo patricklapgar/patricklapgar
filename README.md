@@ -3,15 +3,16 @@
 ## 🤓 About Me
 I'm passionate about all things backend engineering, and also your average C enthusiast. 
 
-As of now, I'm completing my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
+I recently completed my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
+
+I now work on relational databases for IBM.
 
 A little more about me and what I like...
 
-- 💻 I’m currently working on LeetCamp, a project where I teach algorithms & data structures via LeetCode problems & projects
-- 👯 I’m looking to collaborate on projects focused on web development or systems programming
-- 🤔 I’m also looking for help with LeetCamp. If you're in Aggie Coding Club and want to teach data structures, email me 😉
+- 💻 I work on a variety of projects ranging from web dev, systems programming, to graphics
+- 👯 If you're looking to collaborate on some projects that you and I have common interests, feel free to reach out
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
-- 💬 Ask me about C++ and Python (and also video games, whichever you may or may not like 🎮)
+- 💬 Ask me about C/C++ and Python (and also video games, whichever you may or may not like 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
  
 Also, if you wish to spare some time, please check out my Replit account: 
