@@ -37,11 +37,11 @@ I like to build fun side projects there!
  -->
 
 ## 💻 Tech Stack - Work
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,github,visualstudio&perline=6)](https://skillicons.dev)
 
 ## 💻 Tech Stack - Personal
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,nodejs,react,jquery,flask,mysql,docker,aws,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,nodejs,react,jquery,flask,mysql,docker,aws,git,vscode,visualstudio&perline=6)](https://skillicons.dev)
 
  ## 📈 Stats
 
