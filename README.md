@@ -9,7 +9,7 @@ I now work on relational databases for IBM.
 
 A little more about me and what I like...
 
-- 💻 I work on a variety of projects ranging from web dev, systems programming, to graphics
+- 💻 I work on a variety of projects ranging from web dev, systems programming, and graphics
 - 👯 If you're looking to collaborate on some projects that you and I have common interests, feel free to reach out
 - 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com
 - 💬 Ask me about C/C++ and Python (and also video games, whichever you may or may not like 🎮)
