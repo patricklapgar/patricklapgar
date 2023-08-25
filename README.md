@@ -5,7 +5,7 @@ I'm passionate about all things backend engineering, and also your average C ent
 
 I recently completed my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
 
-I now work on relational database systems for IBM.
+I now work on a relational datastore at IBM.
 
 A little more about me and what I like...
 
