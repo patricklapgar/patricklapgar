@@ -37,7 +37,7 @@ I like to build fun side projects there!
  -->
 
 ## 💻 Tech Stack - Work
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode&perline=10)](https://skillicons.dev)
 
 ## 💻 Tech Stack - Personal
 
