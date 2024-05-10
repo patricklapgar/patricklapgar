@@ -3,7 +3,7 @@
 ## 🤓 About Me
 I'm passionate about all things backend engineering, and also your average C enthusiast. 
 
-I recently completed my Bachelors in **Electronics Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
+I recently completed my Bachelors in **Electrical Engineering** w/ minors in **Computer Science** and **Cybersecurity**.
 
 I now work on database systems at IBM.
 
