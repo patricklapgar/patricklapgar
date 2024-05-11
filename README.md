@@ -41,7 +41,7 @@ I like to build fun side projects there!
 
 ## 💻 Tech Stack - Personal
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,nodejs,react,jquery,flask,mysql,docker,git,vscode,visualstudio&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,mysql,docker,git&perline=7)](https://skillicons.dev)
 
  ## 📈 Stats
 
