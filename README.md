@@ -37,12 +37,13 @@ I like to build fun side projects there!
  -->
 
 ## 💻 Tech Stack - Work
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode&perline=10)](https://skillicons.dev)
 
 ## 💻 Tech Stack - Personal
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,mysql,docker,git&perline=7)](https://skillicons.dev)
 
+<!-- 
  ## 📈 Stats
 
 [![Language Stats](https://api.githubtrends.io/user/svg/patricklapgar/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)]()
@@ -50,6 +51,8 @@ I like to build fun side projects there!
 [![Most Contributed Repos](https://api.githubtrends.io/user/svg/patricklapgar/repos?time_range=one_year&loc_metric=changed&theme=dark)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricklapgar&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+-->
 
 <!-- Book Recommendations -->
 <!-- ## 📖 Book Recommendations
