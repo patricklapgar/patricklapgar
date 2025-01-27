@@ -11,7 +11,9 @@ A little more about me and what I like...
 
 - 💻 I work on a variety of projects ranging from web dev, systems programming, and graphics
 - 👯 If you're looking to collaborate on some projects that you and I have common interests, feel free to reach out
-- 📫 How to reach me: patrickapgar@tamu.edu or papgar9@gmail.com (preferred)
+
+<!--
+- 📫 How to reach me: papgar9@gmail.com (preferred)
 - 💬 Ask me about C/C++ and Python (and also video games, whichever you may or may not like 🎮)
 - ⚡ Fun fact: I make REALLY good tex-mex 😋
  
@@ -20,6 +22,7 @@ Also, if you wish to spare some time, please check out my Replit account:
 - https://replit.com/@PatrickApgar 
 
 I like to build fun side projects there!
+-->
 
 ## 🧠 Currently Learning
 <!-- 
